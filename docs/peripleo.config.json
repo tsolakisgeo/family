@@ -1,11 +1,11 @@
 {
-  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+  "initial_bounds": [-3.92, 49.5, 2.2, 59.4],
   "map_style": "./map-style-OSM.json",
   "data": [
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json",
+      "src": "./data/Peripleo_Data_1699753193.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
